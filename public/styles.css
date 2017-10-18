@@ -1,0 +1,17 @@
+.markdown-header {
+    margin: 0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.markdown-textarea {
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.markdown-field {
+    display: inline-block;
+    width: 50%;
+    float: left;
+}
+
